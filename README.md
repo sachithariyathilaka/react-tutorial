@@ -6,12 +6,12 @@ React JS application for understand the basic concepts of the library.
     * HTML 5
     * CSS 3
 
-* ### Configurations
-    * [Medium Story](https://sachithariyathilaka.medium.com/react-js-c47c46e52f53)
+* ### Documentation
+    * [Read on Medium](https://sachithariyathilaka.medium.com/react-js-c47c46e52f53)
 
 * ### Release Note
-    * Release 1.0.0
-    * Date: 2024/07/12
+    * Version 1.0.0
+    * Release Date: 2024/07/12
     * Module: React Tutorial
     * Changes
         * Initiates the react js tutorial project.
